@@ -16,7 +16,6 @@ Welcome to the official repository for the website of **Rajveer Patel**, the lea
 - [About the Website](#about-the-website)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
-- [Installation](#installation)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -34,6 +33,12 @@ This simple yet effective stack ensures the website is both responsive and user-
 - Responsive design for all devices
 - Interactive elements for better user engagement
 - Easy navigation to access services and contact
+
+## Contributing
+Feel free to contribute by forking the repository, making improvements, and submitting pull requests. We welcome suggestions, bug fixes, and enhancements!
+
+## License
+This project is licensed under the Apache-2.0 license.
 
 <!--## Installation
 
