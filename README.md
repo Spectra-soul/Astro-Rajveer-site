@@ -1,11 +1,7 @@
 # Astro-Rajveer-site
  
-- *Client-site*: https://rajveerpatel.com/
+- *Client-site: https://rajveerpatel.com/*
 - *https://spectra-soul.github.io/Astro-Rajveer-site/*
-
-
-<h5>Client-site:<h4></h4></h5><br>
-<h4></h4>
 
 
 
