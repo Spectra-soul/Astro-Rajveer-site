@@ -35,11 +35,11 @@ This simple yet effective stack ensures the website is both responsive and user-
 - Interactive elements for better user engagement
 - Easy navigation to access services and contact
 
-## Installation
+<!--## Installation
 
 To run this project locally, clone the repository and open the `index.html` file in your browser.
 
 ```bash
 git clone https://github.com/yourusername/rajveerpatel-website.git
 cd rajveerpatel-website
-open index.html
+open index.html-->
